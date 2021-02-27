@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "suis-covid-19",
+    "slug": "suis-covid-19",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/images/mpps-logo.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#293241"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.suis.suis",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.suis.suis",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "thisapp register the data bycovid-19 in venezuela"
+  }
+}
